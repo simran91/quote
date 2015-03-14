@@ -1,0 +1,1469 @@
+# Some inspirational quotes used by various scripts upon output!
+#
+# Qutoes are withing <quote> and </quote> tags... anything outside
+# those tags will be ignored!
+#
+#
+# Please NOTE: <quote> and </quote> tags MUST BE ON LINES BY THEMSELVES!!!
+
+
+<quote>
+In the world there is nothing more submissive and weak than water.
+Yet for attacking that which is hard and strong nothing can surpass it.
+This is because there is nothing that can take its place.
+						Lao Tzu, Tao Te Ching
+</quote>
+
+<quote>
+If the laws do not serve a man,
+abolish the laws, not the man.
+</quote>
+
+<quote>
+Most smiles are started
+by another smile.
+</quote>
+
+<quote>
+Don't lose the peace of years
+by seeking the rapture of moments.
+</quote>
+
+<quote>
+The weak can never forgive.
+Forgiveness is the attribute
+of the strong.
+</quote>
+
+<quote>
+Never lose the chance of
+saying a kind word.
+</quote>
+
+<quote>
+To be happy, do not add
+to your possessions but 
+subtract from your desires.
+</quote>
+
+<quote>
+Find yourself,
+know yourself,
+be yourself.
+</quote>
+
+<quote>
+An eye for an eye only ends
+up making the whole world blind.
+</quote>
+
+<quote>
+This will also pass away.
+</quote>
+
+<quote>
+When you create peace in your mind,
+you will find it in your life.
+</quote>
+
+<quote>
+DON'T QUIT
+
+Don't quit when the tide is lowest,
+it's just about to turn;
+Don't quit over doubts and questions,
+there's something you may learn.
+
+Don't quit when the night is darkest,
+For it's just a while 'til dawn;
+
+Don't quit when you've run the farthest
+For the race is almost won.
+
+Don't quit when the hill is steepest,
+For your goal is almost nigh;
+
+Don't quit for you're not a failure
+Until you fail to try. 
+</quote>
+
+<quote>
+If you must doubt, try doubting your doubts
+rather than your beliefs. 
+</quote>
+
+<quote>
+Forgiveness sets you free.
+</quote>
+
+<quote>
+Truth is one, sages call
+it by different names.
+</quote>
+
+<quote>
+The religion in your heart should
+be visible in your life.
+</quote>
+
+<quote>
+You are what you make of yourself.
+</quote>
+
+<quote>
+Patience is a quality that is most
+needed when it is exhausted.
+</quote>
+
+<quote>
+The happiness of your life depends
+on the character of your thoughts.
+</quote>
+
+<quote>
+Wise individuals are not always silent
+but they know when to be.
+</quote>
+
+<quote>
+Those who sacrifice their conscience to ambition,
+burn a picture to obtain the ashes.
+</quote>
+
+<quote>
+In the inner Self there is infinite inspiration.
+Open your heart and see.
+</quote>
+
+<quote>
+In wordly life, as well as on the spiritual path,
+it is boundless love and respect that make a person
+feel very light and happy all the time.
+Love and respect transform ordinary life into a 
+garden of paradise.
+</quote>
+
+<quote>
+The shadows are behind you
+if you walk towards the light.
+</quote>
+
+<quote>
+A fool always finds some greater fool to admire him.
+
+                		Nicholas Boileau (1636-1711)
+
+</quote>
+
+<quote>
+Much knowledge of divine things is lost to us through want of faith.
+   
+	                Heraclitus (B.C. 535-475)
+</quote>
+
+<quote>
+Everything changes, nothing remains without change.
+   
+		                Buddha (B.C. 568-488)
+</quote>
+
+<quote>
+It is impossible to begin to learn that which one thinks one already
+knows.
+   
+                				Epictetus (c.55-c.135)
+</quote>
+
+<quote>
+Look around the habitable world, how few Know their own good, or
+knowing it, pursue.
+   
+                				Dryden (1631-1700)
+</quote>
+
+<quote>
+Only that in you which is me can hear what I'm saying.
+   
+                			Baba Ram Dass (b.1931)
+</quote>
+
+<quote>
+Education is an admirable thing, but it is well to remember from time
+to time that nothing that is worth knowing can be taught.
+   
+                				Oscar Wilde (1856-1900)
+</quote>
+
+<quote>
+A wise man makes his own decisions, an ignorant man follows the public
+opinion.
+   
+                					Chinese Proverb
+</quote>
+
+<quote>
+What a curious phenomenon it is that you can get men to die for the
+liberty of the world who will not make the little sacrifice that is
+needed to free themselves from their own individual bondage.
+   
+                				Bruce Barton (1886-1967)
+</quote>
+
+<quote>
+I do not know whether I was then a man dreaming I was a butterfly, or
+whether I am now a butterfly dreaming I am a man.
+   
+			                Chuang-tzu (c.369-c.286 BC)
+</quote>
+
+<quote>
+Your candle loses nothing by
+lighting anothers candle.
+</quote>
+
+<quote>
+Demand not that events should happen as you wish, but wish them to
+happen as they do, and you will go on well.
+   
+                				Epictetus (50-138 A.D.)
+</quote>
+
+<quote>
+Asuan jal seech seech, prem bael boe, 
+aab to bael phal gaie anand phal hoi.
+  				- Meera
+(I sowed the vine of love and nurtured it with
+ my tears - now it had grown and has the fruits
+ of bliss on it)
+
+</quote>
+
+<quote>
+There is not enough darkness in the whole world
+to put out the light of even one little candle.
+</quote>
+
+<quote>
+The more I see of man,
+the more I love my dog.
+</quote>
+
+<quote>
+They talked about and about
+I came out of the same door I went in.
+</quote>
+
+<quote>
+It was six men of Indonisian,
+To learning much inclined,
+Who went to see the elephant
+(Though all of them were blind),
+That each by observation
+Might satisfy the mind.
+
+The first approached the elephant,
+And, happening to fall
+Against his broad and sturdy side,
+At once began to bawl;
+`God bless me! but the elephant
+Is very like a wall!'
+
+The second, feeling of the tusk,
+Cried: `Ho! what have we here
+So very round and smooth and sharp?
+To me 'tis mighty clear
+This wonder of an elephant
+Is very like a spear!'
+
+The third approached the animal,
+And, happening to take 
+The squirming trunk within his hands,
+Thus boldly up and spoke:
+`I see', quoth he,' the elephant
+Is very like a snake!'
+
+The fourth reached out his eager hand,
+And felt about the knee:
+`What most this wondrous beast is like
+Is mighty plain,' quoth he;
+`This clear enough the elephant
+Is very like a tree!'
+
+The fifth, who chanced to touch the ear,
+Said: `E'en the blindest man 
+Can tell what this resembles most;
+Deny the fact who can,
+This marvel of an elephant
+Is very like a fan!'
+
+The sixth no sooner had begun
+About the beast to grope,
+Than, seizing on the swinging tail
+That fell within his scope,
+`I see', quoth he, `the elephant
+Is very like a rope!'
+
+And so these man of Indonisian 
+Disputed loud and long,
+Each in his own opinion
+Exceeding stiff and strong,
+Though each was partly in the right
+And all were in the wrong!
+</quote>
+
+<quote>
+For him in vain the envious seasons roll
+Who bears eternal summer in his soul.
+</quote>
+
+<quote>
+The mountain and the squirrel
+Had a quarrel,
+And the former called the latter "Little prig."
+Bun replied,
+"You are doubtless very big;
+But all sorts of things and weather 
+Must be taken in together
+To make up a year
+And a sphere.
+And I think it no disgrace
+To occupy my place.
+If I'm not so large as you,
+You are not so small as I,
+And not half so spry:
+I'll not deny you make
+A very pretty squirrel track.
+Talents differ; all is well and wisely put;
+If I cannot carry forests on my back,
+Neither can you crack a nut"
+</quote>
+
+<quote>
+Laugh and the world laughs with you,
+Weep and you weep alone:
+For this brave old earth must borrow its mirth,
+It has sorrow enough of its own.
+Sing and the hills will answer,
+Sigh! it is lost in the air.
+The echos do bound a joyful sound,
+But shrink from voicing care.
+Rejoice and men will seek you,
+Grieve and they turn and go:
+They want full measure of all your pleasure,
+But they do not want your woe.
+Be glad and your friends are many,
+Be sad and you lose them all.
+There is none to decline your nectared drink,
+But alone you must drink life's gall
+Feast, and your halls are crowded;
+Fast, and the world goes by;
+Succeed and give, and it helps you live,
+But no one can help you die.
+There is room in the halls of pleasure
+For a long and lordy train,
+But one by one we must all file on
+Through the narrow aisles of pain.
+</quote>
+
+<quote>
+He prayeth best who loveth best,
+Both man, and bird and beast
+He prayeth well who loveth well
+All things both great and small.
+</quote>
+
+<quote>
+He who plants kindness
+gathers love.
+</quote>
+
+<quote>
+Even This Will Pass Away
+
+Once in Persia reigned a king,
+Who upon a signet ring
+Carved a maxim strange and wise,
+When held before his eyes,
+Gave him counsel at a glance,
+For every change and chance:
+Solemn words and these were they:
+"EVEN THIS WILL PASS AWAY"
+
+Trains of camel through the sand
+Brought him gems from Samarcand;
+Fleets of galleys over the seas
+Brought him pearls to rival these,
+But he counted little gain,
+Treasures of the mine or main;
+"What is wealth?" the king would say,
+"EVEN THIS WILL PASS AWAY".
+
+Mid the pleasures of his court
+At the zenith of their sport,
+When the palms of all his guests
+Burned with clapping at his jests,
+Seated midst the figs and wine,
+Said the king: Ah, friends of mine,
+Pleasure comes but not to stay,
+"EVEN THIS WILL PASS AWAY".
+
+Woman, fairest ever seen
+Was the bride he crowned as queen
+Pillowed on the marriage-bed
+Whispering to his soul he said
+Though no monarch ever pressed
+Fairer bosom to his breast,
+Mortal flesh is only clay!
+"EVEN THIS WILL PASS AWAY".
+
+Fighting on the furious field,
+Once a javelin pierced his shield,
+Soldiers with a loud lament
+Bore him bleeding to his tortured side,
+"Pain is hard to bear," he cried,
+But with patience, day by day,
+"EVEN THIS WILL PASS AWAY".
+
+Towering in a public square
+Forty cubits in the air,
+And the king disguised, unknown,
+Gazed upon his sculptured name,
+And he pondered, What is fame?
+Fame is but a slow decay!
+"EVEN THIS WILL PASS AWAY".
+
+Struck with palsy, sore and old,
+Waiting at the gates of gold,
+Said he with his dying breath
+"Life is done, but that is Death?"
+Then an answer to the king
+Fell a sunbeam on his ring;
+Showing by a heavenly ray,
+"EVEN THIS WILL PASS AWAY".
+</quote>
+
+<quote>
+So many sects so many creeds,
+So many paths that winde and winde,
+While just the art of being kind
+Is all the sad world needs.
+</quote>
+
+<quote>
+The Olive Tree
+
+Said and ancient hermit bending
+Half in prayer upon his knee,
+"Oil I need for midnight watching,
+I desire an olive tree".
+
+Then he took a tender sapling,
+Planted it before his cave,
+Spread his trembling hands above it,
+As his benison he gave.
+
+But he thought, the rain it needeth,
+That the root may drink and swell,
+"God! I pray thee send Thy showers"
+So a gently shower fell.
+
+"Lord! I ask for beams of summer
+Cherishing this little child."
+Then the dripping clouds divided,
+And the sun looked down and smiled.
+
+"Send it frost to brace its tissues,
+O my God!" the hermit cried,
+The plant was bright and hoary,
+But at evensong it died.
+
+Went the hermit to a brother 
+Sitting in his rocky cell;
+"Thou an olive tree possesseth;
+How is this, my brother tell?"
+
+"I have planted one and prayed,
+Now for sunshine, now for rain,
+God hath granted each petition,
+Yet my olive tree hath slain!"
+
+Said the other, "I entrusted 
+To its God my little tree;
+He who made knew what it needed
+Better than a man like me.
+
+Laid I on Him no conditions,
+Fixed no ways and means; so I 
+Wonder not my olive thriveth,
+While thy olive tree did die."
+</quote>
+
+<quote>
+The Turkey and The Ant
+
+A turkey, tried of common food,
+Forsook the barn, and sought the wood,
+Behind her ran an infant train
+Collecting here and there a grain.
+`Draw near, my birds', the mother cries,
+This hill delicious fare supplies.
+Behold the bush hethro race--
+See, millions blacken all the place!
+Fear not; like me with freedom eat;
+An ant is most delightful meat.
+How blest, how envied, were our life
+Could we but `scape the poulterer's knife!
+But man, cursed man, on turkey preys
+And Christmas shortens all our days.
+Sometimes with oysters we combine,
+Sometimes assist the savoury chine,
+From the low peasant to the Lord,
+The turkey smokes on every board.
+Some men for gluttony are crust,
+Of the seven deadly sins the worst.
+An ant, who climbed beyond her reach,
+Thus answered from a neighbouring beech;
+`Ere you remark another's sin,
+Bud thy own conscience look within;
+Control thy more voracious bill,
+Nor, for a breakfast nations kill'.
+</quote>
+
+<quote>
+The law, in its majestic equality, forbids the rich
+as well as the poor to sleep under bridges, to beg
+in the streets, and to steal bread.
+			- Anatole France, Crainquebille
+</quote>
+
+<quote>
+The laws of God, the laws of man,
+He may keep that will and can;
+Not I: let God and man decree
+Laws for themselves and not for me.
+			- A.E.Housnam, Last Poems
+</quote>
+
+<quote>
+Across the fields of yesterday
+He sometimes comes to me,
+A little lad just back from play-
+The lad I used to be.
+		- T.S.Jones,Jr. Sometimes
+</quote>
+
+<quote>
+He drew a circle that shut me out-
+Heretic, rebel, a thing to flout
+But Love and I had the wit to win.
+We drew a circle that took him in.
+			- Edwin Markham, Outwitted
+</quote>
+
+<quote>
+Little drops of water,
+Little grains of sand;
+Make the mighty ocean,
+And the pleasant land.
+</quote>
+
+<quote>
+As a bird flies from its cage,
+Never turning to look at the grain it is leaving behind,
+Nor at the jewelled fingers that fed it,
+Discarding them, because, though beautiful,
+They were the cause of its bondage;
+Leaving the music which was daily played before it,
+Flying higher and higher,
+Never looking back at the grain -
+So must the soul of man
+Fly into the sky of love of God and the Guru.
+</quote>
+
+<quote>
+Everyday holds the
+possibility of miracles.
+</quote>
+
+<quote>
+Just like the magnificent glory of the sun is 
+reflected in the serene fullness of the moon.
+Similarly the joy and happiness in our hearts 
+should be reflected in our lives.
+</quote>
+
+<quote>
+Life is like a mirror - 
+we get the best results
+when we smile at it.
+</quote>
+
+<quote>
+The ancient Masters were profound and subtle.
+Their wisdom was unfathomable.
+There is no way to describe it;
+all we can describe is their appearance.
+
+They were careful
+as someone crossing an iced-over stream.
+Alert as a warrior in enemy territory.
+Courteous as a guest.
+Fluid as melting ice.
+Shapable as a block of wood.
+Receptive as a valley.
+Clear as a glass of water.
+
+Do you have the patience to wait
+till your mud settles and the water is clear ?
+Can you remain unmoving
+till the right action arises by itself ?
+
+The Master doesn't seek fulfillment.
+Not seeking, not expecting,
+she is present, 
+and can welcome all things.
+</quote>
+
+<quote>
+What is rooted is easy to nourish.
+What is recent is easy to correct.
+What is brittle is easy to break.
+What is small is easy to scatter.
+
+Prevent trouble before it arises. 
+Put things in order before they exist.
+The giant pine tree
+grows from a tiny sprout.
+The journey of a thousand miles
+starts from beneath your feet.
+
+Rushing into action, you fail.
+Trying to grasp things, you lose them.
+Forcing a project to completion,
+you ruin what was almost ripe.
+
+Therefore the Master takes action
+by letting things take their course.
+He remains as calm at the end
+as at the beginning.
+He has nothing,
+thus has nothing to lose.
+What he desires is non-desire;
+what he learns is to unlearn.
+He simply reminds people 
+of who they have always been.
+He cares about nothing 
+but the Tao.
+Thus he can care
+for all things.
+</quote>
+
+<quote>
+True words aren't eloquent;
+eloquent words aren't true.
+Wise men don't need
+to prove their point;
+men who need to prove 
+their point aren't wise.
+
+The Master has no possessions.
+The more he does for others,
+the happier he is.
+The more he gives to others,
+the wealthier he is.
+
+The Tao nourishes
+by not forcing.
+By not dominating,
+the Master leads.
+</quote>
+
+<quote>
+There is enough for every man's need but not
+enough for even one man's greed.
+</quote>
+
+<quote>
+Broken Dreams
+
+As children bring their broken toys
+with tears for us to mend,
+I brought my broken dreams to God
+because he was my friend.
+But then instead of leaving him 
+in peace to work alone,
+I hung around and tried to help
+with ways that were my own.
+At last I snatched them back and cried,
+"How can you be so slow ?"
+"My child" he said,
+"What could I do, You never did let go."
+</quote>
+
+<quote>
+Many a doctrine is like a window pane, I see truth through it,
+but it divides me from the truth
+				- Kahlil Gibran
+</quote>
+
+<quote>
+When you let me take, I'm grateful,
+When you let me give, I'm blessed.
+</quote>
+
+<quote>
+Fly, fly little wing
+Fly beyond imagining
+The softest cloud, the whitest dove
+Upon the wind of heaven's love
+Past the planets and the stars
+Leave this lonely world of ours
+Escape the sorrow and the pain
+And fly again
+
+Fly, fly precious one
+Your endless journey has begun
+Take your gently happiness
+Far too beautiful for this
+Cross over to the other shore
+There is peace forevermore
+But hold this mem'ry bittersweet
+Until we meet
+
+Fly, fly do not fear
+Don't waste a breath, don't shed a tear
+Your heart is pure, your soul is free
+Be on your way, don't wait for me
+Above the universe you'll climb
+On beyond the hands of time
+The moon will rise, the sun will set
+But I won't forget
+
+Fly, fly little wing
+Fly where only angels sing
+Fly away the time is right
+Go now, find the light
+
+                - "Fly" 
+</quote>
+
+<quote>
+It is better to light a candle
+than to curse the darkness.
+</quote>
+
+<quote>
+Love believes all things, hopes all things, endures all things.
+Love never fails. 
+		(1 Corinthians 13)
+</quote>
+
+<quote>
+True love is knowing that even when
+you are alone, you will never be lonely again.
+</quote>
+
+<quote>
+To release a person from the expectations we
+have of them is to really love them.
+</quote>
+
+<quote>
+Peace of Mind
+
+Peace of mind is a treasure,
+of greater worth than gold;
+More precious than a jewel,
+and if this prize you hold;
+You're rich beyond all telling,
+For even if time may prove unkind,
+it cannot rob you of the treasures,
+Of a peaceful mind. 
+</quote>
+
+<quote>
+People are lonely today
+because they build walls
+instead of bridges.
+Reach out to someone today!
+</quote>
+
+<quote>
+When you help someone up a steep hill
+you get closer the top yourself.
+</quote>
+
+<quote>
+Peace comes not from the absence
+of conflict in life but from the
+ability to cope with it.
+</quote>
+
+<quote>
+Never answer an angry word with
+an angry word. It's the second
+one that makes the quarrel.
+</quote>
+
+<quote>
+It is a big thing to do
+a little thing well.
+</quote>
+
+<quote>
+A little love, a little trust,
+A soft impulse, a sudden dream,
+And life as dry as desert dust
+Is sweeter than a mountain stream.
+</quote>
+
+<quote>
+Temper takes you to trouble.
+Pride keeps you there.
+</quote>
+
+<quote>
+A successful man is one who can lay
+a firm foundation with the bricks
+that others throw at him.
+</quote>
+
+<quote>
+Two or three minutes - two or three hours,
+What do they mean in this life of ours ?
+Not very much if but counted as time,
+but minutes of gold and hours sublime,
+If only we'll use them once in a while
+To make somebody happy - make someone smile.
+A minute may dry a lad's tears,
+A hour sweep aside trouble of years.
+Minutes of my time may bring to an end
+Hopelessness somewhere, and bring me a friend.
+</quote>
+
+<quote>
+Every revolution was first a
+thought in one man's mind.
+</quote>
+
+<quote>
+If the laws do not server the men,
+change the laws, not the men.
+</quote>
+
+<quote>
+My life is my message.
+			- Gandhi
+</quote>
+
+<quote>
+Pleasant thoughts make
+pleasant lives.
+</quote>
+
+<quote>
+The longest journey begins
+with a single step.
+</quote>
+
+<quote>
+To profit from good advice requires
+more wisdom than to give it.
+</quote>
+
+<quote>
+To see a world in a grain of sand
+And a heaven in a wild flower,
+Hold infinity in the palm of your hand
+And eternity in an hour.
+			William Blake, Auguries of Innocence
+</quote>
+
+<quote>
+You are sowing the flowers
+of tomorrow in the seeds of today.
+</quote>
+
+<quote>
+Happiness will never come to those
+who fail to appreciate what they already have.
+</quote>
+
+<quote>
+Keep your head and your heart going in the right direction
+and you'll not have to worry about your feet.
+</quote>
+
+<quote>
+The way to gain a good reputation is to
+endeavor to be what you desire to appear.
+</quote>
+
+<quote>
+How beautiful a day can be
+when kindness touches it.
+</quote>
+
+<quote>
+Knowledge is proud that it knows so much;
+wisdom is humble that it knows no more.
+</quote>
+
+<quote>
+Freedom is a sure possession of only
+those who have the courage to defend it.
+</quote>
+
+<quote>
+Joy is not in things,
+it is in us.
+</quote>
+
+<quote>
+The miracle is this ... 
+the more we share the more we have.
+</quote>
+
+<quote>
+Peace is never denied to the peaceful.
+</quote>
+
+<quote>
+Great achievements begin 
+with small opportunities.
+</quote>
+
+<quote>
+Some succeed because they are destined to,
+but most succeed because they are determined to.
+</quote>
+
+<quote>
+Today's preparation determines tomorrow's achievement.
+</quote>
+
+<quote>
+We can give advice but we can't give
+the wisdom to profit by it.
+</quote>
+
+<quote>
+" We must support friends even in their mistakes; however,
+  it must be the friend and not the mistake we are supporting. "
+                           -- Mohandas Karamchand Gandhi
+</quote>
+
+<quote>
+Faith keeps the man
+who keeps the faith.
+</quote>
+
+<quote>
+Temper gets people into trouble,
+but pride keeps them there.
+</quote>
+
+<quote>
+Never underestimate the 
+power of a kind word.
+</quote>
+
+<quote>
+This above all: to thine
+own self be true.
+</quote>
+
+<quote>
+Individuals with clenched fists
+cannot shake hands.
+</quote>
+
+<quote>
+The courage to speak must be matched by the wisdom to listen.
+</quote>
+
+<quote>
+True love begins, 
+when nothing is expected in return.
+</quote>
+
+<quote>
+People whose main concern is 
+their own happiness seldom find it.
+</quote>
+
+<quote>
+Advice is like the snow;
+the softer it falls the longer it dwells upon,
+and the deeper it sinks into the mind.
+</quote>
+
+<quote>
+You must speak to be heard but sometimes
+you have to be silent to be appreciated.
+</quote>
+
+<quote>
+Truth often hurts, but it's the lie that leaves the scars.
+</quote>
+
+<quote>
+One person with courage makes a majority.
+</quote>
+
+<quote>
+Have patience. If you pluck the 
+blossoms, you must do without the fruit.
+</quote>
+
+<quote>
+If you cannot find happiness along the way,
+you will not find it at the end of the road.
+</quote>
+
+<quote>
+Forgiveness is a funny thing.
+It warms the heart and cools the sting.
+</quote>
+
+<quote>
+There is no one luckier than
+he who thinks he is.
+</quote>
+
+<quote>
+If you get up one time more 
+than you fall, you will make it through.
+</quote>
+
+<quote>
+Those who bring sunshine to the
+lives of others cannot keep it
+from themselves.
+</quote>
+
+<quote>
+The kindest people are those
+who forgive and forget.
+</quote>
+
+<quote>
+The best advice is only as good
+as the use we make of it.
+</quote>
+
+<quote>
+Hope sees the invisible,
+feels the intangible and 
+achieves the impossible.
+</quote>
+
+<quote>
+Those who remember the past with a clear
+conscience need have no fear of the future.
+</quote>
+
+<quote>
+Anyone who angers you conquers you.
+</quote>
+
+<quote>
+True dignity is never gained by place,
+and never lost when honors are withdrawn.
+</quote>
+
+<quote>
+Some people speak from experience;
+others, from experience do not speak.
+</quote>
+
+<quote>
+The best way to say something is to say it,
+unless remaining silent will say it better.
+</quote>
+
+<quote>
+The first great gift we can 
+bestow on others is good example.
+</quote>
+
+<quote>
+What can't be done by advice can often be done by example.
+</quote>
+
+<quote>
+He is no fool who gives what
+he cannot keep to gain what
+he cannot lose.
+</quote>
+
+<quote>
+The only way to have a friend is to be one.
+</quote>
+
+<quote>
+The best kind of pride is that which
+compels a person to do their best work - even when no one is looking.
+</quote>
+
+<quote>
+What we frankly give, forever is our own.
+</quote>
+
+<quote>
+The heart sees what is
+invisible to the eye.
+</quote>
+
+<quote>
+Remember the tea kettle! Though up to
+its neck in hot water, it continues to sing.
+</quote>
+
+<quote>
+Still waters run deep.
+</quote>
+
+<quote>
+What we see depends on what were looking for.
+</quote>
+
+<quote>
+Laughing at yourself gives you a lot to smile about.
+</quote>
+
+<quote>
+Faith sees the invisible,
+believes the incredible, 
+and receives the impossible.
+</quote>
+
+<quote>
+When it is dark enough,
+you can see the stars.
+</quote>
+
+<quote>
+You are rich when you are
+content with what you have.
+</quote>
+
+<quote>
+The rose perfumes even the hand that crushes it.
+</quote>
+
+<quote>
+This will also pass away.
+</quote>
+
+<quote>
+Little drops of water,
+Little grains of sand;
+Make the mighty ocean,
+and the pleasant land.
+</quote>
+
+<quote>
+Peace is when time doesn't matter as it passes by.
+</quote>
+
+<quote>
+Be great in the little things.
+</quote>
+
+<quote>
+Be what you wish others to become.
+</quote>
+
+<quote>
+Love doesn't try to see through others,
+but to see others through.
+</quote>
+
+<quote>
+FOOTPRINTS
+
+One night a man had a dream.
+He dreamed he was walking along
+the beach with the Lord. Across the
+sky flashed scenes from his life. For 
+each scene, he noticed two sets of 
+footprints in the sand: one belonging 
+to him, and the other to the Lord.
+
+When the last scene of his life
+flashed before him, he looked back
+at the footprints in the sand. He
+noticed that many times along the 
+path of his life there was only one
+set of footprints. He also noticed that
+it happened at the very lowest and
+saddest times in his life.
+
+This really bothered him and he
+questioned the Lord about it. "Lord,
+You said that once I decided to 
+follow you, You'd walk with me all
+the way. But I have noticed that
+during the most troublesome times
+in my life, there is only one set of
+footprints. I don't understand why
+when i needed You most You would
+leave me."
+
+The Lord replied, "My son, My
+precious child, I love you and would
+never leave you. During your times
+of trial and suffering, when you see
+only one set of footprints, it was
+then that i carried you."
+</quote>
+
+<quote>
+THE DIFFERENCE
+
+I got up early this morning
+And rushed right into the day;
+I had so much to accomplish
+That I didn't have time to pray.
+
+Problems just tumbled about me,
+And heavier came each task;
+"Why doesn't God help me?"
+  I wondered.
+He answered, "You didn't ask."
+
+I wanted to see joy and beauty,
+But the day toiled on gray on bleak;
+I wondered why God didn't show me.
+He said, "But you didn't seek."
+
+I tried to come into God's presence;
+I used all my keys in the lock.
+God gently and lovingly chided,
+"My child, you didn't knock."
+
+I woke up early this morning,
+And paused before entering this day;
+I had so much to accomplish
+That i had to take time to pray.
+</quote>
+
+<quote>
+Your smile is the most
+important thing your wear.
+</quote>
+
+<quote>
+We can always live on less when
+we have more to live for.
+</quote>
+
+<quote>
+There is no future in any job.  The future lies in the
+man who holds the job.
+                              - Dr. George Crane
+</quote>
+
+<quote>
+Joyful thoughts create a joyful world.
+</quote>
+
+<quote>
+Courtesy costs nothing yet it
+buys things that are priceless.
+</quote>
+
+<quote>
+Always look for the good in people.
+</quote>
+
+<quote>
+Every experience in your life
+is an opportunity for growth.
+</quote>
+
+<quote>
+Make the mistakes of yesterday
+your lessons for today.
+</quote>
+
+<quote>
+If you use time to improve yourself
+you will not have time to criticize others.
+</quote>
+
+<quote>
+The most important person to 
+be honest with is yourself.
+</quote>
+
+<quote>
+Find peace within yourself and
+you will not have to seek it elsewhere.
+</quote>
+
+<quote>
+Choice, not chance
+determines destiny.
+</quote>
+
+<quote>
+
+THEN said a rich man, Speak to us of Giving.
+
+                                  And he answered:
+
+                        You give but little when you give of your
+                                    possessions.
+
+                        It is when you give of yourself that you
+                                    truly give.
+
+                        For what are your possessions but things
+                       you keep and guard for fear you may need
+                                  them tomorrow?
+
+                          And tomorrow, what shall tomorrow
+                       bring to the overprudent dog burying bones
+                         in the trackless sand as he follows the
+                              pilgrims to the holy city?
+
+                        And what is fear of need but need itself?
+
+                         Is not dread of thirst when your well is
+                          full, the thirst that is unquenchable?
+
+                          There are those who give little of the 
+                        much which they have---and they give it
+                         for recognition and their hidden desire
+                            makes their gifts unwholesome.
+
+                         And there are those who have little and
+                                     give it all.
+
+                          These are the believers in life and the
+                         bounty of life, and their coffer is never
+                                      empty.
+
+                         There are those who give with joy, and
+                               that joy is their reward.
+
+                         And there are those who give with pain,
+                            and that pain is their baptism.
+
+                         And there are those who give and know
+                        not pain in giving, nor do they seek joy,
+                          nor give with mindfulness of virtue;
+                        They give as in yonder valley the myrtle
+                           breathes its fragrance into space.
+
+                        Through the hands of such as these God
+                         speaks, and from behind their eyes He 
+                                smiles upon the earth.
+
+                          It is well to give when asked, but it is
+                     better to give unasked, through under- standing;
+                         And to the open-handed the search for
+                         one who shall receive is joy greater than
+                                      giving.
+
+                        And is there aught you would withhold?
+
+                         All you have shall some day be given;
+                          Therefore give now, that the season of
+                      giving may be yours and not your inheritors'.
+
+                         You often say, "I would give, but only
+                                  to the deserving."
+
+                        The trees in your orchard say not so, nor
+                              the flocks in your pasture.
+
+                        They give that they may live, for to with-
+                                  hold is to perish.
+
+                         Surely he who is worthy to receive his
+                        days and his nights, is worthy of all else
+                                     from you.
+
+                         And he who has deserved to drink from
+                         the ocean of life deserves to fill his cup
+                               from your little stream.
+
+                         And what desert greater shall there be, 
+                       than that which lies in the courage and the
+                        confidence, nay the charity, of receiving?
+
+                         And who are you that men should rend
+                       their bosom and unveil their pride, that you
+                        may see their worth naked and their pride
+                                    unabashed?
+
+                         See first that you yourself deserve to be
+                         a giver, and an instrument of giving.
+
+                          For in truth it is life that gives unto
+                       life---while you, who deem yourself a giver,
+                                  are but a witness.
+
+                          And you receivers---and you are all
+                       receivers---assume no weight of gratitude,
+                       lest you lay a yoke upon yourself and upon
+                                   him who gives.
+
+                          Rather rise together with the giver on
+                                his gifts as on wings;
+                          For to be overmindful of your debt, is
+                        to doubt his generosity who has the free-
+                          hearted earth for mother, and God for
+                                      father.
+
+
+						- Khalil Gibran, The Prophet
+
+
+</quote>
+
+<quote>
+
+The most beautiful things in the world
+can neither be seen nor touched,
+just felt in the heart.
+			- Helen Keller
+
+</quote>
+
+<quote>
+
+Praise Him for all that is past.
+Trust Him for all that is to come.
+
+</quote>
+
+<quote>
+
+It is only a tiny rosebud,
+A flower of GOD's design;
+But I cannot unfold the petals
+With these clumsy hands of mine.
+The secret of unfolding flowers
+Is not known to such as I.
+GOD opens this flower so sweetly,
+When in my hands they fade and die.
+If I cannot unfold a rosebud,
+This flower of GOD's design,
+Then how can I think I have wisdom
+To unfold this life of mine?
+So I'll trust in Him for His leading
+Each moment of every day.
+I will look to him for His guidance
+Each step of the pilgrim way.
+The pathway that lies before me,
+Only my Heavenly Father knows.
+I'll trust Him to unfold the moments,
+Just as He unfolds the rose.
+
+
+</quote>
+

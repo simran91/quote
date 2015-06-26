@@ -7,7 +7,7 @@
 # Description  : prints a random quote from the quotes file
 # Original Date: ~1992
 # Author       : simran@dn.gs
-# Change for   : Toby Heap
+# Change with  : Toby Heap
 #
 ##################################################################################################################
 
